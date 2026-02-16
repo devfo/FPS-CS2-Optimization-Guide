@@ -38,7 +38,7 @@
   - This Tool can be used to check where latency issues on the computer might happen, for example bad drivers, etc. 
 
 
-### Other CS2 Optimization
+## Other CS2 Optimization
 - CS2 Audio Profile is pretty weak, if you want the best experience to hear footsteps, use an Equalizer for example Sonar from SteelSeries
 - CS2 has issues with Shaders and Shader Cache from CS2 itself, NVIDIA and DirectX. It is recommended to clean Shaders after GPU Driver Updates or bigger CS2 updates. See my other Guide and one-click Files here: https://github.com/devfo/shader-clearing
   
