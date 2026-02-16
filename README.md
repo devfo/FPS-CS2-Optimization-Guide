@@ -42,4 +42,5 @@
 - CS2 Audio Profile is pretty weak, if you want the best experience to hear footsteps, use an Equalizer for example Sonar from SteelSeries
 - CS2 has issues with Shaders and Shader Cache from CS2 itself, NVIDIA and DirectX. It is recommended to clean Shaders after GPU Driver Updates or bigger CS2 updates. See my other Guide and one-click Files here: https://github.com/devfo/shader-clearing
   
-
+### Optimal CS2 ingame Video Settings 
+- Check out my Video Settings: https://github.com/devfo/CS2-Video-Settings/tree/main
