@@ -2,6 +2,7 @@
 > [!IMPORTANT]
 > Update your Drivers to the latest version! GPU, Chipset, Network and Audio.
 
+
 ## NVIDIA Settings
   Manage 3d settings, select programm CS2.exe
   - Shader cache -> 10 GB
@@ -9,6 +10,7 @@
   - Powermanagement mode -> maximum performance
   - Low latency mode -> ultra
   - Refresh rate -> highest available
+
 
 ## BIOS Settings
 > [!NOTE]
@@ -19,7 +21,6 @@
 - Enable Low Latency Support
 - Enable Above 4G Decoding (for high end system)
 - Enable Re-Size BAR Support (for high end system)
-- SMT Mode -> Enable less than 8 COREs. Disable 8 or more
 
 
 ## Windows Settings
@@ -35,6 +36,7 @@
   -   Check out YouTube for a Guide, for example JayzTwoCents
 - [Latencymon - Measure Input Latency](https://resplendence.com/latencymon)
   - This Tool can be used to check where latency issues on the computer might happen, for example bad drivers, etc. 
+
 
 ### Other CS2 Optimization
 - CS2 Audio Profile is pretty weak, if you want the best experience to hear footsteps, use an Equalizer for example Sonar from SteelSeries
