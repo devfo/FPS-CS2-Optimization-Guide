@@ -17,7 +17,7 @@
 > Consider updating your BIOS when not done in a long time
 
 - Enable EXPO (AMD) or XMP (Intel) RAM profile. (RAM is running on stock clocks, when you buy RAM its probably able to run way higher than on stock clocks!)
-- Enable XMP/(EXPO High Bandwith Support
+- Enable XMP/(EXPO High Bandwith Support)
 - Enable Low Latency Support
 - Enable Above 4G Decoding (for high end system)
 - Enable Re-Size BAR Support (for high end system)
